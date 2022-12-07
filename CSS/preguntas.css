@@ -1,13 +1,14 @@
 .navbar-nav a{
-    font-size: 18px;
+    font-size: 25px;
     text-transform: uppercase;
     font-weight: 500;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .navbar .navbar-brand{
    color: black;
-    font-size: 25px;
-    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
   
    
 }
@@ -39,6 +40,7 @@
 h1{
     text-align: center;
     margin: 50px 0 !important;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .accordion, .accordion-item{
