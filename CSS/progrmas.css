@@ -83,6 +83,29 @@
     font-family: 'Bebas Neue', cursive;
   }
 
+  #PC1{
+    height:  250px;
+    margin-top: 150px;
+  }
+  
+
   
  }
  
+/* ------------------- */
+
+footer{
+  margin-top: 250px;
+}
+
+
+i{
+  font-size: 25px;    
+
+}
+
+img{
+  height:  400px;
+margin-top: 150px;
+}
+
